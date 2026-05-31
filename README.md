@@ -1,2 +1,2 @@
 # FACEBOOKLOGIN
-I Created the facebook login with the help of HTML, CSS and javascript
+This project is a responsive Facebook login page clone built using HTML and CSS. It recreates the visual design and layout of Facebook's login interface, including the logo section, login form, buttons, and links. The project focuses on front-end development concepts such as page structure, styling, responsive design, form elements, and CSS positioning techniques. It is intended for educational and practice purposes to improve HTML and CSS skills.
